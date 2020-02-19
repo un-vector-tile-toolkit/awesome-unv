@@ -9,4 +9,4 @@ Awesome United Nations Vector Tiles - a list of vector tilesets produced by UNVT
 There is no criteria of the order of the list as of now. Maybe to be discussed.
 
 ## TODO
-Vector Tiles hosted under un-vector-tile-toolkit shall also be added to this awesome-unv list.
+Vector Tiles hosted under un-vector-tile-toolkit, such as kawagoe, shall also be added to this awesome-unv list.
